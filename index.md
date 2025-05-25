@@ -21,19 +21,31 @@ For more real-time discussions, we have a [Slack workspace](https://iacoslo.slac
 
 For any questions, suggestions, or feedback, please feel free to contact us at [this email address](mailto:iacusergrouposlo@gmail.com).
 
+<hr />
+
 ## Organizers
 
 TBD
 
+<hr />
+
 ## Planned events
 
-TBD - integration with Meetup.com or Sessionize.com
+<div>
+  <!-- Sessionize Embed Code Start -->
+  <script type="text/javascript" src="https://sessionize.com/api/v2/k6cb59wn/view/Sessions"></script>
+  <!-- Sessionize Embed Code End -->
+</div>
+
+<hr />
 
 ## Sponsors
 
 We are always looking for sponsors to help us organize events and cover costs such as venue, food, drinks, and other expenses. If you are interested in sponsoring an event, please contact us at [this email address](mailto:iacusergrouposlo@gmail.com).
 
-Enso?
+We would like to thank our current sponsors for their support:
 
+<p><img src="https://cdn.prod.website-files.com/6214c874431e5f067201a098/62161e1ceaffe63570ea75fa_logo.svg" alt="Enso" /></p>
 
+<hr />
 
