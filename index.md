@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Home
+title: Infrastructure as Code User Group Oslo
 nav_order: 1
 ---
 
-# Infrastructure as Code User Group Oslo
 
 ## About us
 
