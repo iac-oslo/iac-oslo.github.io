@@ -45,17 +45,16 @@ For any **questions, suggestions, or feedback**, please feel free to contact us 
 
 ## Organizers
 
-| Name | Role | Bio |
+|| Name | Bio |
 |---|---|---|---|
-| ![Evgeny](https://avatars.githubusercontent.com/u/155018?v=4) | [Evgeny Borzenin](https://github.com/evgenyb) | Founder | Evgeny is a Microsoft Azure MVP, Azure Solutions Architect Expert, technical architect and developer with more than 25 years of experience, strong communication skills and love for automation. |
-| ![David](https://avatars.githubusercontent.com/u/12873988?v=4) | [David Pazdera](https://github.com/pazdedav) | Organizer | David is a Principal  Solution Architect, working daily with Azure, primarily focusing on automation and "everything as code". |
-
+| ![Evgeny](https://avatars.githubusercontent.com/u/155018?v=4) | [Evgeny Borzenin](https://github.com/evgenyb) | Evgeny is a Microsoft Azure MVP, Azure Solutions Architect Expert, technical architect and developer with more than 25 years of experience, strong communication skills and love for automation. |
+| ![David](https://avatars.githubusercontent.com/u/12873988?v=4) | [David Pazdera](https://github.com/pazdedav) | David is a Principal  Solution Architect, working daily with Azure, primarily focusing on automation and "everything as code". |
 
 <hr />
 
 ## Planned events
 
-Please make sure to sign up for all events on our Meetup.com page and update your RSVP status if you can no longer attend. This helps us plan for the right number of attendees and ensure that we have enough space and resources for everyone.
+Please make sure to **sign up for all events on our Meetup.com page** and update your RSVP status if you can no longer attend. This helps us plan for the right number of attendees and ensure that we have enough space and resources for everyone.
 
 <div>
   <!-- Sessionize Embed Code Start -->
