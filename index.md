@@ -9,10 +9,7 @@ nav_order: 1
 
 **Infrastructure as Code User Group Oslo** aim to bring together people who are interested in Infrastructure as Code (IaC) and related topics. We want to create a community where we can share knowledge, experiences, and best practices in the field of IaC.
 
-![user group logo](https://raw.githubusercontent.com/iac-oslo/iac-oslo.github.io/main/assets/img/iac-ugo-logo.png)
-
 Historically, the group has been focused on Bicep DSL and Microsoft Azure, but we are open to other tools and technologies related to IaC, as well as other cloud platforms. We believe that by sharing our knowledge and experiences, we can help each other grow and improve our skills in this area.
-
 
 ### Meetups
 
@@ -25,7 +22,7 @@ We publish all future events on our [Meetup.com group](https://www.meetup.com/in
 
 We publish all the **code and presentations** from our events on our [GitHub organization](https://github.com/iac-oslo).
 
-![GitHub Organization](https://raw.githubusercontent.com/iac-oslo/iac-oslo.github.io/main/assets/img/github-scrn.png)
+![GitHub Organization](https://raw.githubusercontent.com/iac-oslo/iac-oslo.github.io/main/assets/img/ghorg-scrn.png)
 
 ### Get involved
 
@@ -48,7 +45,11 @@ For any **questions, suggestions, or feedback**, please feel free to contact us 
 
 ## Organizers
 
-TBD
+| Name | Role | Bio |
+|---|---|---|---|
+| ![Evgeny](https://avatars.githubusercontent.com/u/155018?v=4) | [Evgeny Borzenin](https://github.com/evgenyb) | Founder | Evgeny is a Microsoft Azure MVP, Azure Solutions Architect Expert, technical architect and developer with more than 25 years of experience, strong communication skills and love for automation. |
+| ![David](https://avatars.githubusercontent.com/u/12873988?v=4) | [David Pazdera](https://github.com/pazdedav) | Organizer | David is a Principal  Solution Architect, working daily with Azure, primarily focusing on automation and "everything as code". |
+
 
 <hr />
 
