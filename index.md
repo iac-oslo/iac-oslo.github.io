@@ -29,7 +29,11 @@ We publish all the **code and presentations** from our events on our [GitHub org
 We welcome speakers with various backgrounds and level of experience, who want to share their knowledge and experiences with the community. If you are interested in speaking or sponsoring an event, please **submit your proposal** via our [ Sessionize Call for Speakers](https://sessionize.com/iac-user-group-oslo/) page.
 
 ### Slack and YouTube
-For more **real-time interaction**, we have a [Slack workspace](https://iacoslo.slack.com) where you can join and chat with other members of the community. We encourage everyone to join and participate in discussions, ask questions, and share their knowledge.
+For more **real-time interaction**, we have a [Slack workspace](https://iacoslo.slack.com) where you can join and chat with other members of the community. 
+
+We have created a simple (IssueOps) process for requesting access to Slack. Simply follow the guide on [this repository readme](https://github.com/iac-oslo/access-slack) and wait for an invitation e-mail from Slack.
+
+We encourage everyone to join and participate in discussions, ask questions, and share their knowledge.
 
 ![Slack](https://raw.githubusercontent.com/iac-oslo/iac-oslo.github.io/main/assets/img/slack-scrn.png)
 
